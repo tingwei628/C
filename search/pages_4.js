@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['list_20of_20all_20files_687',['List of all files',['../d5/d88/md__d_i_r_e_c_t_o_r_y.html',1,'']]],
-  ['leetcode_688',['LeetCode',['../df/d58/md_leetcode__r_e_a_d_m_e.html',1,'']]]
+  ['exercism_20io_20target_20_5fblank_20exercism_20io_20a_0',['Sample solutions for &lt;a href=&quot;http://exercism.io/&quot; target=&quot;_blank&quot; &gt;exercism.io&lt;/a&gt;',['../de/dd4/md_exercism_2_r_e_a_d_m_e.html',1,'']]]
 ];

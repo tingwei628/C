@@ -1,10 +1,9 @@
 var searchData=
 [
-  ['real_628',['real',['../d7/dfd/structdual__quat__.html#ad663036ace6a586f90a2f89386f7731a',1,'dual_quat_']]],
-  ['right_629',['right',['../d5/da1/structnode.html#a51e160f22dc6064bac4a4f9f1d931c2c',1,'node']]],
-  ['rlink_630',['rlink',['../db/d8b/struct_node.html#a0ed3c7305b43527f0f237bbfd438b8f7',1,'Node']]],
-  ['roll_631',['roll',['../d2/de8/structeuler__.html#a3f1b77e489be443a8d84a84082b8092e',1,'euler_']]],
-  ['row1_632',['row1',['../d9/d8b/structmat__3x3__.html#ac74f33a2e1ad1f6db74d94807cf1f64e',1,'mat_3x3_']]],
-  ['row2_633',['row2',['../d9/d8b/structmat__3x3__.html#a8d7ae8fbcc408e3c30e9d64bbd28feaf',1,'mat_3x3_']]],
-  ['row3_634',['row3',['../d9/d8b/structmat__3x3__.html#a490bb6be52ea95b333b55b236af41563',1,'mat_3x3_']]]
+  ['n_0',['N',['../dc/d18/structsudoku.html#a160365012280c3e10f1b31e914e8f129',1,'sudoku']]],
+  ['n2_1',['N2',['../dc/d18/structsudoku.html#a0f01e2782e82306e6fab9a8578006f56',1,'sudoku']]],
+  ['next_2',['next',['../d5/da1/structnode.html#a111a569ab2765add9b91c9f94cf9f063',1,'node::next'],['../d4/d73/struct_m_e_m_o_r_y___i_n_f_o_r_m_a_t_i_o_n.html#aa296b903d0e2ac54acaa7c305bae8007',1,'MEMORY_INFORMATION::next'],['../d9/dd7/struct__cantor__set.html#a2f7f9f19125725d3e5673fdb4ac8cfb1',1,'_cantor_set::next'],['../df/d86/structterm.html#ab7ac49a58cc431c9838c855bf59a243a',1,'term::next']]],
+  ['next_5fdigit_3',['next_digit',['../dc/d77/struct__big__int.html#a187538b984c86d7cfdb13e297e7f3564',1,'_big_int']]],
+  ['num_5fdigits_4',['num_digits',['../d3/d5a/struct__large__num.html#a3fd11c0b413bbabfb8737d4ae73e5aa0',1,'_large_num']]],
+  ['num_5fweights_5',['num_weights',['../d2/daa/structadaline.html#a53314e737a0a5ff4552a03bcc9dafbc1',1,'adaline']]]
 ];
